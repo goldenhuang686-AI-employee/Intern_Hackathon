@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.header h1 {
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+
+.instructions {
+  color: var(--color-text-muted);
+  margin-bottom: 1rem;
+}
+
+.notesInput {
+  width: 100%;
+  resize: vertical;
+  margin-bottom: 1rem;
+}
